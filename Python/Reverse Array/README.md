@@ -1,4 +1,4 @@
-# Task HackerRank Print Function Python
+# Task HackerRank Reverse Arrays - DS
 
 [Source](https://www.hackerrank.com/challenges/arrays-ds/problem)
 
