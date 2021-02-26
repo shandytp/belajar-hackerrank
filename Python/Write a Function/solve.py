@@ -1,6 +1,18 @@
-def is_leap(year):
 # cara saya
+def is_leap(year):
+    '''
+    Function untuk melakukan deteksi termasuk leap year atau tidak
 
+    Parameters
+    ---------
+    year: int
+        Input adalah sebuah tahun berupa `int`
+
+    Returns
+    -------
+    leap: Boolean
+        Hasil dari pengecekan is_leap
+    '''
     leap = False
     
     # Write your logic here
