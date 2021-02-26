@@ -1,6 +1,20 @@
 # cara saya
 
 def swap_case(s):
+    '''
+    Function untuk melakukan swap case
+
+    Parameters
+    ----------
+    s: string
+        Inputan yang akan di swap case
+    
+    Returns
+    -------
+    swap: string
+        Hasil dari swap case
+    '''
+    
     swap = ""
 
     for letter in s:
